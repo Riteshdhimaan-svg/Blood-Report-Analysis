@@ -1,0 +1,5 @@
+streamlit
+langchain-google-genai
+dotenv
+pandas
+numpy
